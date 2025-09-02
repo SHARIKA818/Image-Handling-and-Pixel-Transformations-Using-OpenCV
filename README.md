@@ -214,16 +214,19 @@ plt.show()
 
 ## Output:
 - **i)** Read and Display an Image.
-- ##1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
+1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 - <img width="760" height="597" alt="image" src="https://github.com/user-attachments/assets/9c87a8b7-554c-41a7-b2c2-8b020c8e940a" />
-##2.Save image as PNG and display:
-<img width="761" height="597" alt="image" src="https://github.com/user-attachments/assets/3edd2fcf-0c06-43a5-9bdf-897e64ede0ad" />
-##3.Cropped image
-<img width="459" height="601" alt="image" src="https://github.com/user-attachments/assets/e3cec24e-580b-43d6-94e2-a62355f0c3cf" />
-##4.Resize and flip Horizontally:
-<img width="578" height="577" alt="image" src="https://github.com/user-attachments/assets/03694d1b-fcdf-405c-9ceb-7e9c90806dc2" />
-##Read 'Apollo-11-launch.jpg' and Display the final annotated image:
-<img width="791" height="223" alt="image" src="https://github.com/user-attachments/assets/960bb3fc-a681-463c-9baf-e28f5ee060f8" />
+2.Save image as PNG and display:
+<img width="593" height="462" alt="image" src="https://github.com/user-attachments/assets/c189a653-1c52-4708-b244-323440bd15f3" />
+
+3.Cropped image
+<img width="346" height="450" alt="image" src="https://github.com/user-attachments/assets/decc951b-4ffd-4597-968c-e326a908756d" />
+4.Resize and flip Horizontally:
+<img width="435" height="436" alt="image" src="https://github.com/user-attachments/assets/dc691caf-7b3c-4085-8ddf-7d8870cff92c" />
+
+5.Read 'Apollo-11-launch.jpg' and Display the final annotated image:
+<img width="637" height="402" alt="image" src="https://github.com/user-attachments/assets/65c49cf8-14f6-4b87-a028-3788ddcb43d7" />
+
 
 - **ii)** Adjust Image Brightness.
 - ##1.Create brighter and darker images and display:
