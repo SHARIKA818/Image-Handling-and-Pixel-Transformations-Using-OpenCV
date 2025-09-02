@@ -229,21 +229,21 @@ plt.show()
 
 
 - **ii)** Adjust Image Brightness.
-- ##1.Create brighter and darker images and display:
+  1.Create brighter and darker images and display:
 - <img width="781" height="217" alt="image" src="https://github.com/user-attachments/assets/567fbecc-b3c1-4799-917c-c4122e8a6cb8" />
 
 - **iii)** Modify Image Contrast.
-##1.Modify contrast using scaling factors 1.1 and 1.2
+1.Modify contrast using scaling factors 1.1 and 1.2
 <img width="801" height="208" alt="image" src="https://github.com/user-attachments/assets/30d20a09-b982-45bd-ad63-8c9219bc2c1e" />
 
 - **iv)** Generate Third Image Using Bitwise Operations.
-- ##1.Split 'Boy.jpg' into B, G, R components and display:
+  1.Split 'Boy.jpg' into B, G, R components and display:
 - <img width="794" height="231" alt="image" src="https://github.com/user-attachments/assets/39eb76b6-420e-48a3-8382-66bfebd80252" />
-##2.Merge the R, G, B channels and display:
+2.Merge the R, G, B channels and display:
 <img width="596" height="468" alt="image" src="https://github.com/user-attachments/assets/ba9146d4-1fca-4ca1-a45f-bd156b530875" />
-##3.Split the image into H, S, V components and display:
+3.Split the image into H, S, V components and display:
 <img width="801" height="221" alt="image" src="https://github.com/user-attachments/assets/b829ec35-744e-40dd-9966-1ba1c1816aa3" />
-##4.Merge the H, S, V channels and display:
+4.Merge the H, S, V channels and display:
  <img width="792" height="339" alt="image" src="https://github.com/user-attachments/assets/a0f00063-4f6c-4225-b2ba-2db2cfe8adc8" />
 
 ## Result:
